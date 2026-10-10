@@ -1,0 +1,17 @@
+{"kind":"sheet","id":"ws/jig5zn","name":"Сводка","index":0,"range":"A1:G20","address":"A1:G20"}
+{"kind":"sheet","id":"ws/c5g90f","name":"Участники","index":1,"range":"A1:AJ57","address":"A1:AJ57"}
+{"kind":"sheet","id":"ws/z98po2","name":"Реестр","index":2,"range":"A1:H57","address":"A1:H57"}
+{"kind":"sheet","id":"ws/7njkdi","name":"Ответы тестов","index":3,"range":"A1:I2353","address":"A1:I2353"}
+{"kind":"sheet","id":"ws/wuyv0w","name":"Оценки экспертов","index":4,"range":"A1:I897","address":"A1:I897"}
+{"kind":"sheet","id":"ws/qzz3la","name":"Проверка ссылок","index":5,"range":"A1:I679","address":"A1:I679"}
+{"kind":"sheet","id":"ws/w0sx8k","name":"Аудит текста","index":6,"range":"A1:G57","address":"A1:G57"}
+{"kind":"sheet","id":"ws/kx1p1f","name":"Воспроизведение","index":7,"range":"A1:J57","address":"A1:J57"}
+{"kind":"sheet","id":"ws/x4g4tw","name":"Журнал ИИ","index":8,"range":"A1:K963","address":"A1:K963"}
+{"kind":"sheet","id":"ws/k0e99i","name":"Ответы интервью","index":9,"range":"A1:F73","address":"A1:F73"}
+{"kind":"sheet","id":"ws/pskgc8","name":"Кодирование","index":10,"range":"A1:F73","address":"A1:F73"}
+{"kind":"sheet","id":"ws/puaar6","name":"Реестр файлов","index":11,"range":"A1:D12","address":"A1:D12"}
+{"kind":"sheet","id":"ws/f8ecxl","name":"Проверки","index":12,"range":"A1:E63","address":"A1:E63"}
+{"kind":"sheet","id":"ws/79m1jj","name":"Описательная","index":13,"range":"A1:E13","address":"A1:E13"}
+{"kind":"sheet","id":"ws/78hesw","name":"Артефакты","index":14,"range":"A1:F10","address":"A1:F10"}
+{"kind":"sheet","id":"ws/k94xg7","name":"Темы интервью","index":15,"range":"A1:C7","address":"A1:C7"}
+{"kind":"sheet","id":"ws/748755","name":"Графики","index":16,"range":"A1:A3","address":"A1:A3"}

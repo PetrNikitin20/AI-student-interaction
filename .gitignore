@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+workbook_payload.json
+results/preview_*.png
+results/*.inspect.ndjson
+data/*.inspect.ndjson

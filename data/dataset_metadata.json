@@ -1,0 +1,11 @@
+{
+  "title": "Воспроизводимая реконструкция данных статьи об исследовательском партнёрстве с ИИ",
+  "data_status": "SYNTHETIC_RECONSTRUCTION",
+  "seed_detailed_records": 20261010,
+  "participant_count": 56,
+  "experimental_count": 27,
+  "comparison_count": 29,
+  "bibliography_record_count": 678,
+  "interview_case_count": 12,
+  "intercoder_kappa": 0.7627118644067796
+}

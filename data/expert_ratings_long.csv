@@ -1,0 +1,897 @@
+﻿participant_id,group,expert_id,criterion_code,criterion,score,score_max,blinded_group_label,data_status
+EXP001,experimental,E1,question,Исследовательский вопрос,3,4,ART-001,синтетическая экспертная оценка
+EXP001,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-001,синтетическая экспертная оценка
+EXP001,experimental,E1,sources,Проверка источников,3,4,ART-001,синтетическая экспертная оценка
+EXP001,experimental,E1,design,Дизайн и базовые линии,3,4,ART-001,синтетическая экспертная оценка
+EXP001,experimental,E1,provenance,Происхождение данных,4,4,ART-001,синтетическая экспертная оценка
+EXP001,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-001,синтетическая экспертная оценка
+EXP001,experimental,E1,model_choice,Выбор модели,4,4,ART-001,синтетическая экспертная оценка
+EXP001,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-001,синтетическая экспертная оценка
+EXP001,experimental,E2,question,Исследовательский вопрос,3,4,ART-001,синтетическая экспертная оценка
+EXP001,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-001,синтетическая экспертная оценка
+EXP001,experimental,E2,sources,Проверка источников,3,4,ART-001,синтетическая экспертная оценка
+EXP001,experimental,E2,design,Дизайн и базовые линии,4,4,ART-001,синтетическая экспертная оценка
+EXP001,experimental,E2,provenance,Происхождение данных,4,4,ART-001,синтетическая экспертная оценка
+EXP001,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-001,синтетическая экспертная оценка
+EXP001,experimental,E2,model_choice,Выбор модели,4,4,ART-001,синтетическая экспертная оценка
+EXP001,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-001,синтетическая экспертная оценка
+EXP002,experimental,E1,question,Исследовательский вопрос,3,4,ART-002,синтетическая экспертная оценка
+EXP002,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-002,синтетическая экспертная оценка
+EXP002,experimental,E1,sources,Проверка источников,3,4,ART-002,синтетическая экспертная оценка
+EXP002,experimental,E1,design,Дизайн и базовые линии,2,4,ART-002,синтетическая экспертная оценка
+EXP002,experimental,E1,provenance,Происхождение данных,4,4,ART-002,синтетическая экспертная оценка
+EXP002,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-002,синтетическая экспертная оценка
+EXP002,experimental,E1,model_choice,Выбор модели,4,4,ART-002,синтетическая экспертная оценка
+EXP002,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-002,синтетическая экспертная оценка
+EXP002,experimental,E2,question,Исследовательский вопрос,3,4,ART-002,синтетическая экспертная оценка
+EXP002,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-002,синтетическая экспертная оценка
+EXP002,experimental,E2,sources,Проверка источников,3,4,ART-002,синтетическая экспертная оценка
+EXP002,experimental,E2,design,Дизайн и базовые линии,3,4,ART-002,синтетическая экспертная оценка
+EXP002,experimental,E2,provenance,Происхождение данных,3,4,ART-002,синтетическая экспертная оценка
+EXP002,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-002,синтетическая экспертная оценка
+EXP002,experimental,E2,model_choice,Выбор модели,4,4,ART-002,синтетическая экспертная оценка
+EXP002,experimental,E2,reflection,Ограничения и рефлексия,4,4,ART-002,синтетическая экспертная оценка
+EXP003,experimental,E1,question,Исследовательский вопрос,4,4,ART-003,синтетическая экспертная оценка
+EXP003,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-003,синтетическая экспертная оценка
+EXP003,experimental,E1,sources,Проверка источников,4,4,ART-003,синтетическая экспертная оценка
+EXP003,experimental,E1,design,Дизайн и базовые линии,3,4,ART-003,синтетическая экспертная оценка
+EXP003,experimental,E1,provenance,Происхождение данных,4,4,ART-003,синтетическая экспертная оценка
+EXP003,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-003,синтетическая экспертная оценка
+EXP003,experimental,E1,model_choice,Выбор модели,4,4,ART-003,синтетическая экспертная оценка
+EXP003,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-003,синтетическая экспертная оценка
+EXP003,experimental,E2,question,Исследовательский вопрос,4,4,ART-003,синтетическая экспертная оценка
+EXP003,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-003,синтетическая экспертная оценка
+EXP003,experimental,E2,sources,Проверка источников,4,4,ART-003,синтетическая экспертная оценка
+EXP003,experimental,E2,design,Дизайн и базовые линии,3,4,ART-003,синтетическая экспертная оценка
+EXP003,experimental,E2,provenance,Происхождение данных,4,4,ART-003,синтетическая экспертная оценка
+EXP003,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-003,синтетическая экспертная оценка
+EXP003,experimental,E2,model_choice,Выбор модели,3,4,ART-003,синтетическая экспертная оценка
+EXP003,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-003,синтетическая экспертная оценка
+EXP004,experimental,E1,question,Исследовательский вопрос,2,4,ART-004,синтетическая экспертная оценка
+EXP004,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-004,синтетическая экспертная оценка
+EXP004,experimental,E1,sources,Проверка источников,4,4,ART-004,синтетическая экспертная оценка
+EXP004,experimental,E1,design,Дизайн и базовые линии,3,4,ART-004,синтетическая экспертная оценка
+EXP004,experimental,E1,provenance,Происхождение данных,3,4,ART-004,синтетическая экспертная оценка
+EXP004,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-004,синтетическая экспертная оценка
+EXP004,experimental,E1,model_choice,Выбор модели,3,4,ART-004,синтетическая экспертная оценка
+EXP004,experimental,E1,reflection,Ограничения и рефлексия,2,4,ART-004,синтетическая экспертная оценка
+EXP004,experimental,E2,question,Исследовательский вопрос,3,4,ART-004,синтетическая экспертная оценка
+EXP004,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-004,синтетическая экспертная оценка
+EXP004,experimental,E2,sources,Проверка источников,4,4,ART-004,синтетическая экспертная оценка
+EXP004,experimental,E2,design,Дизайн и базовые линии,3,4,ART-004,синтетическая экспертная оценка
+EXP004,experimental,E2,provenance,Происхождение данных,3,4,ART-004,синтетическая экспертная оценка
+EXP004,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-004,синтетическая экспертная оценка
+EXP004,experimental,E2,model_choice,Выбор модели,2,4,ART-004,синтетическая экспертная оценка
+EXP004,experimental,E2,reflection,Ограничения и рефлексия,1,4,ART-004,синтетическая экспертная оценка
+EXP005,experimental,E1,question,Исследовательский вопрос,4,4,ART-005,синтетическая экспертная оценка
+EXP005,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-005,синтетическая экспертная оценка
+EXP005,experimental,E1,sources,Проверка источников,4,4,ART-005,синтетическая экспертная оценка
+EXP005,experimental,E1,design,Дизайн и базовые линии,3,4,ART-005,синтетическая экспертная оценка
+EXP005,experimental,E1,provenance,Происхождение данных,3,4,ART-005,синтетическая экспертная оценка
+EXP005,experimental,E1,reproducibility,Воспроизводимость,2,4,ART-005,синтетическая экспертная оценка
+EXP005,experimental,E1,model_choice,Выбор модели,3,4,ART-005,синтетическая экспертная оценка
+EXP005,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-005,синтетическая экспертная оценка
+EXP005,experimental,E2,question,Исследовательский вопрос,3,4,ART-005,синтетическая экспертная оценка
+EXP005,experimental,E2,hypothesis,Гипотеза и опровержение,4,4,ART-005,синтетическая экспертная оценка
+EXP005,experimental,E2,sources,Проверка источников,3,4,ART-005,синтетическая экспертная оценка
+EXP005,experimental,E2,design,Дизайн и базовые линии,3,4,ART-005,синтетическая экспертная оценка
+EXP005,experimental,E2,provenance,Происхождение данных,3,4,ART-005,синтетическая экспертная оценка
+EXP005,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-005,синтетическая экспертная оценка
+EXP005,experimental,E2,model_choice,Выбор модели,3,4,ART-005,синтетическая экспертная оценка
+EXP005,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-005,синтетическая экспертная оценка
+EXP006,experimental,E1,question,Исследовательский вопрос,3,4,ART-006,синтетическая экспертная оценка
+EXP006,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-006,синтетическая экспертная оценка
+EXP006,experimental,E1,sources,Проверка источников,4,4,ART-006,синтетическая экспертная оценка
+EXP006,experimental,E1,design,Дизайн и базовые линии,3,4,ART-006,синтетическая экспертная оценка
+EXP006,experimental,E1,provenance,Происхождение данных,4,4,ART-006,синтетическая экспертная оценка
+EXP006,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-006,синтетическая экспертная оценка
+EXP006,experimental,E1,model_choice,Выбор модели,2,4,ART-006,синтетическая экспертная оценка
+EXP006,experimental,E1,reflection,Ограничения и рефлексия,2,4,ART-006,синтетическая экспертная оценка
+EXP006,experimental,E2,question,Исследовательский вопрос,4,4,ART-006,синтетическая экспертная оценка
+EXP006,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-006,синтетическая экспертная оценка
+EXP006,experimental,E2,sources,Проверка источников,3,4,ART-006,синтетическая экспертная оценка
+EXP006,experimental,E2,design,Дизайн и базовые линии,3,4,ART-006,синтетическая экспертная оценка
+EXP006,experimental,E2,provenance,Происхождение данных,4,4,ART-006,синтетическая экспертная оценка
+EXP006,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-006,синтетическая экспертная оценка
+EXP006,experimental,E2,model_choice,Выбор модели,3,4,ART-006,синтетическая экспертная оценка
+EXP006,experimental,E2,reflection,Ограничения и рефлексия,2,4,ART-006,синтетическая экспертная оценка
+EXP007,experimental,E1,question,Исследовательский вопрос,4,4,ART-007,синтетическая экспертная оценка
+EXP007,experimental,E1,hypothesis,Гипотеза и опровержение,2,4,ART-007,синтетическая экспертная оценка
+EXP007,experimental,E1,sources,Проверка источников,3,4,ART-007,синтетическая экспертная оценка
+EXP007,experimental,E1,design,Дизайн и базовые линии,3,4,ART-007,синтетическая экспертная оценка
+EXP007,experimental,E1,provenance,Происхождение данных,3,4,ART-007,синтетическая экспертная оценка
+EXP007,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-007,синтетическая экспертная оценка
+EXP007,experimental,E1,model_choice,Выбор модели,3,4,ART-007,синтетическая экспертная оценка
+EXP007,experimental,E1,reflection,Ограничения и рефлексия,4,4,ART-007,синтетическая экспертная оценка
+EXP007,experimental,E2,question,Исследовательский вопрос,4,4,ART-007,синтетическая экспертная оценка
+EXP007,experimental,E2,hypothesis,Гипотеза и опровержение,2,4,ART-007,синтетическая экспертная оценка
+EXP007,experimental,E2,sources,Проверка источников,3,4,ART-007,синтетическая экспертная оценка
+EXP007,experimental,E2,design,Дизайн и базовые линии,4,4,ART-007,синтетическая экспертная оценка
+EXP007,experimental,E2,provenance,Происхождение данных,3,4,ART-007,синтетическая экспертная оценка
+EXP007,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-007,синтетическая экспертная оценка
+EXP007,experimental,E2,model_choice,Выбор модели,4,4,ART-007,синтетическая экспертная оценка
+EXP007,experimental,E2,reflection,Ограничения и рефлексия,4,4,ART-007,синтетическая экспертная оценка
+EXP008,experimental,E1,question,Исследовательский вопрос,4,4,ART-008,синтетическая экспертная оценка
+EXP008,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-008,синтетическая экспертная оценка
+EXP008,experimental,E1,sources,Проверка источников,3,4,ART-008,синтетическая экспертная оценка
+EXP008,experimental,E1,design,Дизайн и базовые линии,3,4,ART-008,синтетическая экспертная оценка
+EXP008,experimental,E1,provenance,Происхождение данных,4,4,ART-008,синтетическая экспертная оценка
+EXP008,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-008,синтетическая экспертная оценка
+EXP008,experimental,E1,model_choice,Выбор модели,3,4,ART-008,синтетическая экспертная оценка
+EXP008,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-008,синтетическая экспертная оценка
+EXP008,experimental,E2,question,Исследовательский вопрос,4,4,ART-008,синтетическая экспертная оценка
+EXP008,experimental,E2,hypothesis,Гипотеза и опровержение,4,4,ART-008,синтетическая экспертная оценка
+EXP008,experimental,E2,sources,Проверка источников,2,4,ART-008,синтетическая экспертная оценка
+EXP008,experimental,E2,design,Дизайн и базовые линии,3,4,ART-008,синтетическая экспертная оценка
+EXP008,experimental,E2,provenance,Происхождение данных,4,4,ART-008,синтетическая экспертная оценка
+EXP008,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-008,синтетическая экспертная оценка
+EXP008,experimental,E2,model_choice,Выбор модели,3,4,ART-008,синтетическая экспертная оценка
+EXP008,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-008,синтетическая экспертная оценка
+EXP009,experimental,E1,question,Исследовательский вопрос,3,4,ART-009,синтетическая экспертная оценка
+EXP009,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-009,синтетическая экспертная оценка
+EXP009,experimental,E1,sources,Проверка источников,4,4,ART-009,синтетическая экспертная оценка
+EXP009,experimental,E1,design,Дизайн и базовые линии,3,4,ART-009,синтетическая экспертная оценка
+EXP009,experimental,E1,provenance,Происхождение данных,3,4,ART-009,синтетическая экспертная оценка
+EXP009,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-009,синтетическая экспертная оценка
+EXP009,experimental,E1,model_choice,Выбор модели,4,4,ART-009,синтетическая экспертная оценка
+EXP009,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-009,синтетическая экспертная оценка
+EXP009,experimental,E2,question,Исследовательский вопрос,3,4,ART-009,синтетическая экспертная оценка
+EXP009,experimental,E2,hypothesis,Гипотеза и опровержение,4,4,ART-009,синтетическая экспертная оценка
+EXP009,experimental,E2,sources,Проверка источников,4,4,ART-009,синтетическая экспертная оценка
+EXP009,experimental,E2,design,Дизайн и базовые линии,3,4,ART-009,синтетическая экспертная оценка
+EXP009,experimental,E2,provenance,Происхождение данных,3,4,ART-009,синтетическая экспертная оценка
+EXP009,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-009,синтетическая экспертная оценка
+EXP009,experimental,E2,model_choice,Выбор модели,3,4,ART-009,синтетическая экспертная оценка
+EXP009,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-009,синтетическая экспертная оценка
+EXP010,experimental,E1,question,Исследовательский вопрос,3,4,ART-010,синтетическая экспертная оценка
+EXP010,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-010,синтетическая экспертная оценка
+EXP010,experimental,E1,sources,Проверка источников,3,4,ART-010,синтетическая экспертная оценка
+EXP010,experimental,E1,design,Дизайн и базовые линии,3,4,ART-010,синтетическая экспертная оценка
+EXP010,experimental,E1,provenance,Происхождение данных,3,4,ART-010,синтетическая экспертная оценка
+EXP010,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-010,синтетическая экспертная оценка
+EXP010,experimental,E1,model_choice,Выбор модели,4,4,ART-010,синтетическая экспертная оценка
+EXP010,experimental,E1,reflection,Ограничения и рефлексия,4,4,ART-010,синтетическая экспертная оценка
+EXP010,experimental,E2,question,Исследовательский вопрос,3,4,ART-010,синтетическая экспертная оценка
+EXP010,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-010,синтетическая экспертная оценка
+EXP010,experimental,E2,sources,Проверка источников,3,4,ART-010,синтетическая экспертная оценка
+EXP010,experimental,E2,design,Дизайн и базовые линии,3,4,ART-010,синтетическая экспертная оценка
+EXP010,experimental,E2,provenance,Происхождение данных,3,4,ART-010,синтетическая экспертная оценка
+EXP010,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-010,синтетическая экспертная оценка
+EXP010,experimental,E2,model_choice,Выбор модели,4,4,ART-010,синтетическая экспертная оценка
+EXP010,experimental,E2,reflection,Ограничения и рефлексия,4,4,ART-010,синтетическая экспертная оценка
+EXP011,experimental,E1,question,Исследовательский вопрос,3,4,ART-011,синтетическая экспертная оценка
+EXP011,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-011,синтетическая экспертная оценка
+EXP011,experimental,E1,sources,Проверка источников,3,4,ART-011,синтетическая экспертная оценка
+EXP011,experimental,E1,design,Дизайн и базовые линии,2,4,ART-011,синтетическая экспертная оценка
+EXP011,experimental,E1,provenance,Происхождение данных,4,4,ART-011,синтетическая экспертная оценка
+EXP011,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-011,синтетическая экспертная оценка
+EXP011,experimental,E1,model_choice,Выбор модели,3,4,ART-011,синтетическая экспертная оценка
+EXP011,experimental,E1,reflection,Ограничения и рефлексия,2,4,ART-011,синтетическая экспертная оценка
+EXP011,experimental,E2,question,Исследовательский вопрос,3,4,ART-011,синтетическая экспертная оценка
+EXP011,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-011,синтетическая экспертная оценка
+EXP011,experimental,E2,sources,Проверка источников,2,4,ART-011,синтетическая экспертная оценка
+EXP011,experimental,E2,design,Дизайн и базовые линии,3,4,ART-011,синтетическая экспертная оценка
+EXP011,experimental,E2,provenance,Происхождение данных,4,4,ART-011,синтетическая экспертная оценка
+EXP011,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-011,синтетическая экспертная оценка
+EXP011,experimental,E2,model_choice,Выбор модели,3,4,ART-011,синтетическая экспертная оценка
+EXP011,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-011,синтетическая экспертная оценка
+EXP012,experimental,E1,question,Исследовательский вопрос,4,4,ART-012,синтетическая экспертная оценка
+EXP012,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-012,синтетическая экспертная оценка
+EXP012,experimental,E1,sources,Проверка источников,4,4,ART-012,синтетическая экспертная оценка
+EXP012,experimental,E1,design,Дизайн и базовые линии,3,4,ART-012,синтетическая экспертная оценка
+EXP012,experimental,E1,provenance,Происхождение данных,3,4,ART-012,синтетическая экспертная оценка
+EXP012,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-012,синтетическая экспертная оценка
+EXP012,experimental,E1,model_choice,Выбор модели,3,4,ART-012,синтетическая экспертная оценка
+EXP012,experimental,E1,reflection,Ограничения и рефлексия,2,4,ART-012,синтетическая экспертная оценка
+EXP012,experimental,E2,question,Исследовательский вопрос,4,4,ART-012,синтетическая экспертная оценка
+EXP012,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-012,синтетическая экспертная оценка
+EXP012,experimental,E2,sources,Проверка источников,4,4,ART-012,синтетическая экспертная оценка
+EXP012,experimental,E2,design,Дизайн и базовые линии,4,4,ART-012,синтетическая экспертная оценка
+EXP012,experimental,E2,provenance,Происхождение данных,4,4,ART-012,синтетическая экспертная оценка
+EXP012,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-012,синтетическая экспертная оценка
+EXP012,experimental,E2,model_choice,Выбор модели,3,4,ART-012,синтетическая экспертная оценка
+EXP012,experimental,E2,reflection,Ограничения и рефлексия,2,4,ART-012,синтетическая экспертная оценка
+EXP013,experimental,E1,question,Исследовательский вопрос,3,4,ART-013,синтетическая экспертная оценка
+EXP013,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-013,синтетическая экспертная оценка
+EXP013,experimental,E1,sources,Проверка источников,4,4,ART-013,синтетическая экспертная оценка
+EXP013,experimental,E1,design,Дизайн и базовые линии,4,4,ART-013,синтетическая экспертная оценка
+EXP013,experimental,E1,provenance,Происхождение данных,3,4,ART-013,синтетическая экспертная оценка
+EXP013,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-013,синтетическая экспертная оценка
+EXP013,experimental,E1,model_choice,Выбор модели,4,4,ART-013,синтетическая экспертная оценка
+EXP013,experimental,E1,reflection,Ограничения и рефлексия,4,4,ART-013,синтетическая экспертная оценка
+EXP013,experimental,E2,question,Исследовательский вопрос,3,4,ART-013,синтетическая экспертная оценка
+EXP013,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-013,синтетическая экспертная оценка
+EXP013,experimental,E2,sources,Проверка источников,3,4,ART-013,синтетическая экспертная оценка
+EXP013,experimental,E2,design,Дизайн и базовые линии,4,4,ART-013,синтетическая экспертная оценка
+EXP013,experimental,E2,provenance,Происхождение данных,4,4,ART-013,синтетическая экспертная оценка
+EXP013,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-013,синтетическая экспертная оценка
+EXP013,experimental,E2,model_choice,Выбор модели,3,4,ART-013,синтетическая экспертная оценка
+EXP013,experimental,E2,reflection,Ограничения и рефлексия,4,4,ART-013,синтетическая экспертная оценка
+EXP014,experimental,E1,question,Исследовательский вопрос,4,4,ART-014,синтетическая экспертная оценка
+EXP014,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-014,синтетическая экспертная оценка
+EXP014,experimental,E1,sources,Проверка источников,3,4,ART-014,синтетическая экспертная оценка
+EXP014,experimental,E1,design,Дизайн и базовые линии,3,4,ART-014,синтетическая экспертная оценка
+EXP014,experimental,E1,provenance,Происхождение данных,3,4,ART-014,синтетическая экспертная оценка
+EXP014,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-014,синтетическая экспертная оценка
+EXP014,experimental,E1,model_choice,Выбор модели,3,4,ART-014,синтетическая экспертная оценка
+EXP014,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-014,синтетическая экспертная оценка
+EXP014,experimental,E2,question,Исследовательский вопрос,4,4,ART-014,синтетическая экспертная оценка
+EXP014,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-014,синтетическая экспертная оценка
+EXP014,experimental,E2,sources,Проверка источников,3,4,ART-014,синтетическая экспертная оценка
+EXP014,experimental,E2,design,Дизайн и базовые линии,2,4,ART-014,синтетическая экспертная оценка
+EXP014,experimental,E2,provenance,Происхождение данных,4,4,ART-014,синтетическая экспертная оценка
+EXP014,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-014,синтетическая экспертная оценка
+EXP014,experimental,E2,model_choice,Выбор модели,4,4,ART-014,синтетическая экспертная оценка
+EXP014,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-014,синтетическая экспертная оценка
+EXP015,experimental,E1,question,Исследовательский вопрос,3,4,ART-015,синтетическая экспертная оценка
+EXP015,experimental,E1,hypothesis,Гипотеза и опровержение,2,4,ART-015,синтетическая экспертная оценка
+EXP015,experimental,E1,sources,Проверка источников,4,4,ART-015,синтетическая экспертная оценка
+EXP015,experimental,E1,design,Дизайн и базовые линии,4,4,ART-015,синтетическая экспертная оценка
+EXP015,experimental,E1,provenance,Происхождение данных,3,4,ART-015,синтетическая экспертная оценка
+EXP015,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-015,синтетическая экспертная оценка
+EXP015,experimental,E1,model_choice,Выбор модели,3,4,ART-015,синтетическая экспертная оценка
+EXP015,experimental,E1,reflection,Ограничения и рефлексия,4,4,ART-015,синтетическая экспертная оценка
+EXP015,experimental,E2,question,Исследовательский вопрос,3,4,ART-015,синтетическая экспертная оценка
+EXP015,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-015,синтетическая экспертная оценка
+EXP015,experimental,E2,sources,Проверка источников,4,4,ART-015,синтетическая экспертная оценка
+EXP015,experimental,E2,design,Дизайн и базовые линии,4,4,ART-015,синтетическая экспертная оценка
+EXP015,experimental,E2,provenance,Происхождение данных,3,4,ART-015,синтетическая экспертная оценка
+EXP015,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-015,синтетическая экспертная оценка
+EXP015,experimental,E2,model_choice,Выбор модели,3,4,ART-015,синтетическая экспертная оценка
+EXP015,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-015,синтетическая экспертная оценка
+EXP016,experimental,E1,question,Исследовательский вопрос,3,4,ART-016,синтетическая экспертная оценка
+EXP016,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-016,синтетическая экспертная оценка
+EXP016,experimental,E1,sources,Проверка источников,3,4,ART-016,синтетическая экспертная оценка
+EXP016,experimental,E1,design,Дизайн и базовые линии,3,4,ART-016,синтетическая экспертная оценка
+EXP016,experimental,E1,provenance,Происхождение данных,4,4,ART-016,синтетическая экспертная оценка
+EXP016,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-016,синтетическая экспертная оценка
+EXP016,experimental,E1,model_choice,Выбор модели,4,4,ART-016,синтетическая экспертная оценка
+EXP016,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-016,синтетическая экспертная оценка
+EXP016,experimental,E2,question,Исследовательский вопрос,3,4,ART-016,синтетическая экспертная оценка
+EXP016,experimental,E2,hypothesis,Гипотеза и опровержение,4,4,ART-016,синтетическая экспертная оценка
+EXP016,experimental,E2,sources,Проверка источников,3,4,ART-016,синтетическая экспертная оценка
+EXP016,experimental,E2,design,Дизайн и базовые линии,3,4,ART-016,синтетическая экспертная оценка
+EXP016,experimental,E2,provenance,Происхождение данных,3,4,ART-016,синтетическая экспертная оценка
+EXP016,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-016,синтетическая экспертная оценка
+EXP016,experimental,E2,model_choice,Выбор модели,4,4,ART-016,синтетическая экспертная оценка
+EXP016,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-016,синтетическая экспертная оценка
+EXP017,experimental,E1,question,Исследовательский вопрос,3,4,ART-017,синтетическая экспертная оценка
+EXP017,experimental,E1,hypothesis,Гипотеза и опровержение,2,4,ART-017,синтетическая экспертная оценка
+EXP017,experimental,E1,sources,Проверка источников,4,4,ART-017,синтетическая экспертная оценка
+EXP017,experimental,E1,design,Дизайн и базовые линии,4,4,ART-017,синтетическая экспертная оценка
+EXP017,experimental,E1,provenance,Происхождение данных,4,4,ART-017,синтетическая экспертная оценка
+EXP017,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-017,синтетическая экспертная оценка
+EXP017,experimental,E1,model_choice,Выбор модели,3,4,ART-017,синтетическая экспертная оценка
+EXP017,experimental,E1,reflection,Ограничения и рефлексия,4,4,ART-017,синтетическая экспертная оценка
+EXP017,experimental,E2,question,Исследовательский вопрос,3,4,ART-017,синтетическая экспертная оценка
+EXP017,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-017,синтетическая экспертная оценка
+EXP017,experimental,E2,sources,Проверка источников,3,4,ART-017,синтетическая экспертная оценка
+EXP017,experimental,E2,design,Дизайн и базовые линии,4,4,ART-017,синтетическая экспертная оценка
+EXP017,experimental,E2,provenance,Происхождение данных,3,4,ART-017,синтетическая экспертная оценка
+EXP017,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-017,синтетическая экспертная оценка
+EXP017,experimental,E2,model_choice,Выбор модели,4,4,ART-017,синтетическая экспертная оценка
+EXP017,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-017,синтетическая экспертная оценка
+EXP018,experimental,E1,question,Исследовательский вопрос,3,4,ART-018,синтетическая экспертная оценка
+EXP018,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-018,синтетическая экспертная оценка
+EXP018,experimental,E1,sources,Проверка источников,3,4,ART-018,синтетическая экспертная оценка
+EXP018,experimental,E1,design,Дизайн и базовые линии,3,4,ART-018,синтетическая экспертная оценка
+EXP018,experimental,E1,provenance,Происхождение данных,3,4,ART-018,синтетическая экспертная оценка
+EXP018,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-018,синтетическая экспертная оценка
+EXP018,experimental,E1,model_choice,Выбор модели,4,4,ART-018,синтетическая экспертная оценка
+EXP018,experimental,E1,reflection,Ограничения и рефлексия,4,4,ART-018,синтетическая экспертная оценка
+EXP018,experimental,E2,question,Исследовательский вопрос,3,4,ART-018,синтетическая экспертная оценка
+EXP018,experimental,E2,hypothesis,Гипотеза и опровержение,4,4,ART-018,синтетическая экспертная оценка
+EXP018,experimental,E2,sources,Проверка источников,4,4,ART-018,синтетическая экспертная оценка
+EXP018,experimental,E2,design,Дизайн и базовые линии,3,4,ART-018,синтетическая экспертная оценка
+EXP018,experimental,E2,provenance,Происхождение данных,3,4,ART-018,синтетическая экспертная оценка
+EXP018,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-018,синтетическая экспертная оценка
+EXP018,experimental,E2,model_choice,Выбор модели,4,4,ART-018,синтетическая экспертная оценка
+EXP018,experimental,E2,reflection,Ограничения и рефлексия,4,4,ART-018,синтетическая экспертная оценка
+EXP019,experimental,E1,question,Исследовательский вопрос,3,4,ART-019,синтетическая экспертная оценка
+EXP019,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-019,синтетическая экспертная оценка
+EXP019,experimental,E1,sources,Проверка источников,3,4,ART-019,синтетическая экспертная оценка
+EXP019,experimental,E1,design,Дизайн и базовые линии,3,4,ART-019,синтетическая экспертная оценка
+EXP019,experimental,E1,provenance,Происхождение данных,3,4,ART-019,синтетическая экспертная оценка
+EXP019,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-019,синтетическая экспертная оценка
+EXP019,experimental,E1,model_choice,Выбор модели,3,4,ART-019,синтетическая экспертная оценка
+EXP019,experimental,E1,reflection,Ограничения и рефлексия,2,4,ART-019,синтетическая экспертная оценка
+EXP019,experimental,E2,question,Исследовательский вопрос,3,4,ART-019,синтетическая экспертная оценка
+EXP019,experimental,E2,hypothesis,Гипотеза и опровержение,4,4,ART-019,синтетическая экспертная оценка
+EXP019,experimental,E2,sources,Проверка источников,3,4,ART-019,синтетическая экспертная оценка
+EXP019,experimental,E2,design,Дизайн и базовые линии,4,4,ART-019,синтетическая экспертная оценка
+EXP019,experimental,E2,provenance,Происхождение данных,3,4,ART-019,синтетическая экспертная оценка
+EXP019,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-019,синтетическая экспертная оценка
+EXP019,experimental,E2,model_choice,Выбор модели,3,4,ART-019,синтетическая экспертная оценка
+EXP019,experimental,E2,reflection,Ограничения и рефлексия,2,4,ART-019,синтетическая экспертная оценка
+EXP020,experimental,E1,question,Исследовательский вопрос,3,4,ART-020,синтетическая экспертная оценка
+EXP020,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-020,синтетическая экспертная оценка
+EXP020,experimental,E1,sources,Проверка источников,3,4,ART-020,синтетическая экспертная оценка
+EXP020,experimental,E1,design,Дизайн и базовые линии,4,4,ART-020,синтетическая экспертная оценка
+EXP020,experimental,E1,provenance,Происхождение данных,4,4,ART-020,синтетическая экспертная оценка
+EXP020,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-020,синтетическая экспертная оценка
+EXP020,experimental,E1,model_choice,Выбор модели,3,4,ART-020,синтетическая экспертная оценка
+EXP020,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-020,синтетическая экспертная оценка
+EXP020,experimental,E2,question,Исследовательский вопрос,3,4,ART-020,синтетическая экспертная оценка
+EXP020,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-020,синтетическая экспертная оценка
+EXP020,experimental,E2,sources,Проверка источников,3,4,ART-020,синтетическая экспертная оценка
+EXP020,experimental,E2,design,Дизайн и базовые линии,3,4,ART-020,синтетическая экспертная оценка
+EXP020,experimental,E2,provenance,Происхождение данных,4,4,ART-020,синтетическая экспертная оценка
+EXP020,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-020,синтетическая экспертная оценка
+EXP020,experimental,E2,model_choice,Выбор модели,3,4,ART-020,синтетическая экспертная оценка
+EXP020,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-020,синтетическая экспертная оценка
+EXP021,experimental,E1,question,Исследовательский вопрос,3,4,ART-021,синтетическая экспертная оценка
+EXP021,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-021,синтетическая экспертная оценка
+EXP021,experimental,E1,sources,Проверка источников,4,4,ART-021,синтетическая экспертная оценка
+EXP021,experimental,E1,design,Дизайн и базовые линии,3,4,ART-021,синтетическая экспертная оценка
+EXP021,experimental,E1,provenance,Происхождение данных,3,4,ART-021,синтетическая экспертная оценка
+EXP021,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-021,синтетическая экспертная оценка
+EXP021,experimental,E1,model_choice,Выбор модели,2,4,ART-021,синтетическая экспертная оценка
+EXP021,experimental,E1,reflection,Ограничения и рефлексия,2,4,ART-021,синтетическая экспертная оценка
+EXP021,experimental,E2,question,Исследовательский вопрос,3,4,ART-021,синтетическая экспертная оценка
+EXP021,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-021,синтетическая экспертная оценка
+EXP021,experimental,E2,sources,Проверка источников,4,4,ART-021,синтетическая экспертная оценка
+EXP021,experimental,E2,design,Дизайн и базовые линии,3,4,ART-021,синтетическая экспертная оценка
+EXP021,experimental,E2,provenance,Происхождение данных,3,4,ART-021,синтетическая экспертная оценка
+EXP021,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-021,синтетическая экспертная оценка
+EXP021,experimental,E2,model_choice,Выбор модели,2,4,ART-021,синтетическая экспертная оценка
+EXP021,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-021,синтетическая экспертная оценка
+EXP022,experimental,E1,question,Исследовательский вопрос,4,4,ART-022,синтетическая экспертная оценка
+EXP022,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-022,синтетическая экспертная оценка
+EXP022,experimental,E1,sources,Проверка источников,2,4,ART-022,синтетическая экспертная оценка
+EXP022,experimental,E1,design,Дизайн и базовые линии,3,4,ART-022,синтетическая экспертная оценка
+EXP022,experimental,E1,provenance,Происхождение данных,4,4,ART-022,синтетическая экспертная оценка
+EXP022,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-022,синтетическая экспертная оценка
+EXP022,experimental,E1,model_choice,Выбор модели,3,4,ART-022,синтетическая экспертная оценка
+EXP022,experimental,E1,reflection,Ограничения и рефлексия,2,4,ART-022,синтетическая экспертная оценка
+EXP022,experimental,E2,question,Исследовательский вопрос,4,4,ART-022,синтетическая экспертная оценка
+EXP022,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-022,синтетическая экспертная оценка
+EXP022,experimental,E2,sources,Проверка источников,2,4,ART-022,синтетическая экспертная оценка
+EXP022,experimental,E2,design,Дизайн и базовые линии,3,4,ART-022,синтетическая экспертная оценка
+EXP022,experimental,E2,provenance,Происхождение данных,4,4,ART-022,синтетическая экспертная оценка
+EXP022,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-022,синтетическая экспертная оценка
+EXP022,experimental,E2,model_choice,Выбор модели,3,4,ART-022,синтетическая экспертная оценка
+EXP022,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-022,синтетическая экспертная оценка
+EXP023,experimental,E1,question,Исследовательский вопрос,4,4,ART-023,синтетическая экспертная оценка
+EXP023,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-023,синтетическая экспертная оценка
+EXP023,experimental,E1,sources,Проверка источников,3,4,ART-023,синтетическая экспертная оценка
+EXP023,experimental,E1,design,Дизайн и базовые линии,3,4,ART-023,синтетическая экспертная оценка
+EXP023,experimental,E1,provenance,Происхождение данных,4,4,ART-023,синтетическая экспертная оценка
+EXP023,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-023,синтетическая экспертная оценка
+EXP023,experimental,E1,model_choice,Выбор модели,3,4,ART-023,синтетическая экспертная оценка
+EXP023,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-023,синтетическая экспертная оценка
+EXP023,experimental,E2,question,Исследовательский вопрос,4,4,ART-023,синтетическая экспертная оценка
+EXP023,experimental,E2,hypothesis,Гипотеза и опровержение,4,4,ART-023,синтетическая экспертная оценка
+EXP023,experimental,E2,sources,Проверка источников,2,4,ART-023,синтетическая экспертная оценка
+EXP023,experimental,E2,design,Дизайн и базовые линии,3,4,ART-023,синтетическая экспертная оценка
+EXP023,experimental,E2,provenance,Происхождение данных,4,4,ART-023,синтетическая экспертная оценка
+EXP023,experimental,E2,reproducibility,Воспроизводимость,2,4,ART-023,синтетическая экспертная оценка
+EXP023,experimental,E2,model_choice,Выбор модели,3,4,ART-023,синтетическая экспертная оценка
+EXP023,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-023,синтетическая экспертная оценка
+EXP024,experimental,E1,question,Исследовательский вопрос,3,4,ART-024,синтетическая экспертная оценка
+EXP024,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-024,синтетическая экспертная оценка
+EXP024,experimental,E1,sources,Проверка источников,4,4,ART-024,синтетическая экспертная оценка
+EXP024,experimental,E1,design,Дизайн и базовые линии,3,4,ART-024,синтетическая экспертная оценка
+EXP024,experimental,E1,provenance,Происхождение данных,4,4,ART-024,синтетическая экспертная оценка
+EXP024,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-024,синтетическая экспертная оценка
+EXP024,experimental,E1,model_choice,Выбор модели,3,4,ART-024,синтетическая экспертная оценка
+EXP024,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-024,синтетическая экспертная оценка
+EXP024,experimental,E2,question,Исследовательский вопрос,2,4,ART-024,синтетическая экспертная оценка
+EXP024,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-024,синтетическая экспертная оценка
+EXP024,experimental,E2,sources,Проверка источников,4,4,ART-024,синтетическая экспертная оценка
+EXP024,experimental,E2,design,Дизайн и базовые линии,3,4,ART-024,синтетическая экспертная оценка
+EXP024,experimental,E2,provenance,Происхождение данных,4,4,ART-024,синтетическая экспертная оценка
+EXP024,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-024,синтетическая экспертная оценка
+EXP024,experimental,E2,model_choice,Выбор модели,3,4,ART-024,синтетическая экспертная оценка
+EXP024,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-024,синтетическая экспертная оценка
+EXP025,experimental,E1,question,Исследовательский вопрос,2,4,ART-025,синтетическая экспертная оценка
+EXP025,experimental,E1,hypothesis,Гипотеза и опровержение,2,4,ART-025,синтетическая экспертная оценка
+EXP025,experimental,E1,sources,Проверка источников,3,4,ART-025,синтетическая экспертная оценка
+EXP025,experimental,E1,design,Дизайн и базовые линии,3,4,ART-025,синтетическая экспертная оценка
+EXP025,experimental,E1,provenance,Происхождение данных,4,4,ART-025,синтетическая экспертная оценка
+EXP025,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-025,синтетическая экспертная оценка
+EXP025,experimental,E1,model_choice,Выбор модели,4,4,ART-025,синтетическая экспертная оценка
+EXP025,experimental,E1,reflection,Ограничения и рефлексия,2,4,ART-025,синтетическая экспертная оценка
+EXP025,experimental,E2,question,Исследовательский вопрос,3,4,ART-025,синтетическая экспертная оценка
+EXP025,experimental,E2,hypothesis,Гипотеза и опровержение,2,4,ART-025,синтетическая экспертная оценка
+EXP025,experimental,E2,sources,Проверка источников,3,4,ART-025,синтетическая экспертная оценка
+EXP025,experimental,E2,design,Дизайн и базовые линии,3,4,ART-025,синтетическая экспертная оценка
+EXP025,experimental,E2,provenance,Происхождение данных,4,4,ART-025,синтетическая экспертная оценка
+EXP025,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-025,синтетическая экспертная оценка
+EXP025,experimental,E2,model_choice,Выбор модели,4,4,ART-025,синтетическая экспертная оценка
+EXP025,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-025,синтетическая экспертная оценка
+EXP026,experimental,E1,question,Исследовательский вопрос,2,4,ART-026,синтетическая экспертная оценка
+EXP026,experimental,E1,hypothesis,Гипотеза и опровержение,4,4,ART-026,синтетическая экспертная оценка
+EXP026,experimental,E1,sources,Проверка источников,3,4,ART-026,синтетическая экспертная оценка
+EXP026,experimental,E1,design,Дизайн и базовые линии,3,4,ART-026,синтетическая экспертная оценка
+EXP026,experimental,E1,provenance,Происхождение данных,4,4,ART-026,синтетическая экспертная оценка
+EXP026,experimental,E1,reproducibility,Воспроизводимость,4,4,ART-026,синтетическая экспертная оценка
+EXP026,experimental,E1,model_choice,Выбор модели,3,4,ART-026,синтетическая экспертная оценка
+EXP026,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-026,синтетическая экспертная оценка
+EXP026,experimental,E2,question,Исследовательский вопрос,3,4,ART-026,синтетическая экспертная оценка
+EXP026,experimental,E2,hypothesis,Гипотеза и опровержение,3,4,ART-026,синтетическая экспертная оценка
+EXP026,experimental,E2,sources,Проверка источников,3,4,ART-026,синтетическая экспертная оценка
+EXP026,experimental,E2,design,Дизайн и базовые линии,4,4,ART-026,синтетическая экспертная оценка
+EXP026,experimental,E2,provenance,Происхождение данных,4,4,ART-026,синтетическая экспертная оценка
+EXP026,experimental,E2,reproducibility,Воспроизводимость,4,4,ART-026,синтетическая экспертная оценка
+EXP026,experimental,E2,model_choice,Выбор модели,4,4,ART-026,синтетическая экспертная оценка
+EXP026,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-026,синтетическая экспертная оценка
+EXP027,experimental,E1,question,Исследовательский вопрос,4,4,ART-027,синтетическая экспертная оценка
+EXP027,experimental,E1,hypothesis,Гипотеза и опровержение,3,4,ART-027,синтетическая экспертная оценка
+EXP027,experimental,E1,sources,Проверка источников,3,4,ART-027,синтетическая экспертная оценка
+EXP027,experimental,E1,design,Дизайн и базовые линии,4,4,ART-027,синтетическая экспертная оценка
+EXP027,experimental,E1,provenance,Происхождение данных,4,4,ART-027,синтетическая экспертная оценка
+EXP027,experimental,E1,reproducibility,Воспроизводимость,3,4,ART-027,синтетическая экспертная оценка
+EXP027,experimental,E1,model_choice,Выбор модели,3,4,ART-027,синтетическая экспертная оценка
+EXP027,experimental,E1,reflection,Ограничения и рефлексия,3,4,ART-027,синтетическая экспертная оценка
+EXP027,experimental,E2,question,Исследовательский вопрос,4,4,ART-027,синтетическая экспертная оценка
+EXP027,experimental,E2,hypothesis,Гипотеза и опровержение,4,4,ART-027,синтетическая экспертная оценка
+EXP027,experimental,E2,sources,Проверка источников,3,4,ART-027,синтетическая экспертная оценка
+EXP027,experimental,E2,design,Дизайн и базовые линии,4,4,ART-027,синтетическая экспертная оценка
+EXP027,experimental,E2,provenance,Происхождение данных,4,4,ART-027,синтетическая экспертная оценка
+EXP027,experimental,E2,reproducibility,Воспроизводимость,3,4,ART-027,синтетическая экспертная оценка
+EXP027,experimental,E2,model_choice,Выбор модели,4,4,ART-027,синтетическая экспертная оценка
+EXP027,experimental,E2,reflection,Ограничения и рефлексия,3,4,ART-027,синтетическая экспертная оценка
+CTRL001,comparison,E1,question,Исследовательский вопрос,3,4,ART-001,синтетическая экспертная оценка
+CTRL001,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-001,синтетическая экспертная оценка
+CTRL001,comparison,E1,sources,Проверка источников,3,4,ART-001,синтетическая экспертная оценка
+CTRL001,comparison,E1,design,Дизайн и базовые линии,3,4,ART-001,синтетическая экспертная оценка
+CTRL001,comparison,E1,provenance,Происхождение данных,2,4,ART-001,синтетическая экспертная оценка
+CTRL001,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-001,синтетическая экспертная оценка
+CTRL001,comparison,E1,model_choice,Выбор модели,3,4,ART-001,синтетическая экспертная оценка
+CTRL001,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-001,синтетическая экспертная оценка
+CTRL001,comparison,E2,question,Исследовательский вопрос,3,4,ART-001,синтетическая экспертная оценка
+CTRL001,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-001,синтетическая экспертная оценка
+CTRL001,comparison,E2,sources,Проверка источников,3,4,ART-001,синтетическая экспертная оценка
+CTRL001,comparison,E2,design,Дизайн и базовые линии,3,4,ART-001,синтетическая экспертная оценка
+CTRL001,comparison,E2,provenance,Происхождение данных,2,4,ART-001,синтетическая экспертная оценка
+CTRL001,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-001,синтетическая экспертная оценка
+CTRL001,comparison,E2,model_choice,Выбор модели,2,4,ART-001,синтетическая экспертная оценка
+CTRL001,comparison,E2,reflection,Ограничения и рефлексия,4,4,ART-001,синтетическая экспертная оценка
+CTRL002,comparison,E1,question,Исследовательский вопрос,2,4,ART-002,синтетическая экспертная оценка
+CTRL002,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-002,синтетическая экспертная оценка
+CTRL002,comparison,E1,sources,Проверка источников,3,4,ART-002,синтетическая экспертная оценка
+CTRL002,comparison,E1,design,Дизайн и базовые линии,3,4,ART-002,синтетическая экспертная оценка
+CTRL002,comparison,E1,provenance,Происхождение данных,1,4,ART-002,синтетическая экспертная оценка
+CTRL002,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-002,синтетическая экспертная оценка
+CTRL002,comparison,E1,model_choice,Выбор модели,2,4,ART-002,синтетическая экспертная оценка
+CTRL002,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-002,синтетическая экспертная оценка
+CTRL002,comparison,E2,question,Исследовательский вопрос,2,4,ART-002,синтетическая экспертная оценка
+CTRL002,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-002,синтетическая экспертная оценка
+CTRL002,comparison,E2,sources,Проверка источников,3,4,ART-002,синтетическая экспертная оценка
+CTRL002,comparison,E2,design,Дизайн и базовые линии,3,4,ART-002,синтетическая экспертная оценка
+CTRL002,comparison,E2,provenance,Происхождение данных,1,4,ART-002,синтетическая экспертная оценка
+CTRL002,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-002,синтетическая экспертная оценка
+CTRL002,comparison,E2,model_choice,Выбор модели,3,4,ART-002,синтетическая экспертная оценка
+CTRL002,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-002,синтетическая экспертная оценка
+CTRL003,comparison,E1,question,Исследовательский вопрос,3,4,ART-003,синтетическая экспертная оценка
+CTRL003,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-003,синтетическая экспертная оценка
+CTRL003,comparison,E1,sources,Проверка источников,3,4,ART-003,синтетическая экспертная оценка
+CTRL003,comparison,E1,design,Дизайн и базовые линии,3,4,ART-003,синтетическая экспертная оценка
+CTRL003,comparison,E1,provenance,Происхождение данных,2,4,ART-003,синтетическая экспертная оценка
+CTRL003,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-003,синтетическая экспертная оценка
+CTRL003,comparison,E1,model_choice,Выбор модели,2,4,ART-003,синтетическая экспертная оценка
+CTRL003,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-003,синтетическая экспертная оценка
+CTRL003,comparison,E2,question,Исследовательский вопрос,2,4,ART-003,синтетическая экспертная оценка
+CTRL003,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-003,синтетическая экспертная оценка
+CTRL003,comparison,E2,sources,Проверка источников,3,4,ART-003,синтетическая экспертная оценка
+CTRL003,comparison,E2,design,Дизайн и базовые линии,2,4,ART-003,синтетическая экспертная оценка
+CTRL003,comparison,E2,provenance,Происхождение данных,2,4,ART-003,синтетическая экспертная оценка
+CTRL003,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-003,синтетическая экспертная оценка
+CTRL003,comparison,E2,model_choice,Выбор модели,2,4,ART-003,синтетическая экспертная оценка
+CTRL003,comparison,E2,reflection,Ограничения и рефлексия,3,4,ART-003,синтетическая экспертная оценка
+CTRL004,comparison,E1,question,Исследовательский вопрос,2,4,ART-004,синтетическая экспертная оценка
+CTRL004,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-004,синтетическая экспертная оценка
+CTRL004,comparison,E1,sources,Проверка источников,2,4,ART-004,синтетическая экспертная оценка
+CTRL004,comparison,E1,design,Дизайн и базовые линии,2,4,ART-004,синтетическая экспертная оценка
+CTRL004,comparison,E1,provenance,Происхождение данных,3,4,ART-004,синтетическая экспертная оценка
+CTRL004,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-004,синтетическая экспертная оценка
+CTRL004,comparison,E1,model_choice,Выбор модели,2,4,ART-004,синтетическая экспертная оценка
+CTRL004,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-004,синтетическая экспертная оценка
+CTRL004,comparison,E2,question,Исследовательский вопрос,2,4,ART-004,синтетическая экспертная оценка
+CTRL004,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-004,синтетическая экспертная оценка
+CTRL004,comparison,E2,sources,Проверка источников,3,4,ART-004,синтетическая экспертная оценка
+CTRL004,comparison,E2,design,Дизайн и базовые линии,3,4,ART-004,синтетическая экспертная оценка
+CTRL004,comparison,E2,provenance,Происхождение данных,2,4,ART-004,синтетическая экспертная оценка
+CTRL004,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-004,синтетическая экспертная оценка
+CTRL004,comparison,E2,model_choice,Выбор модели,3,4,ART-004,синтетическая экспертная оценка
+CTRL004,comparison,E2,reflection,Ограничения и рефлексия,3,4,ART-004,синтетическая экспертная оценка
+CTRL005,comparison,E1,question,Исследовательский вопрос,3,4,ART-005,синтетическая экспертная оценка
+CTRL005,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-005,синтетическая экспертная оценка
+CTRL005,comparison,E1,sources,Проверка источников,2,4,ART-005,синтетическая экспертная оценка
+CTRL005,comparison,E1,design,Дизайн и базовые линии,3,4,ART-005,синтетическая экспертная оценка
+CTRL005,comparison,E1,provenance,Происхождение данных,3,4,ART-005,синтетическая экспертная оценка
+CTRL005,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-005,синтетическая экспертная оценка
+CTRL005,comparison,E1,model_choice,Выбор модели,3,4,ART-005,синтетическая экспертная оценка
+CTRL005,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-005,синтетическая экспертная оценка
+CTRL005,comparison,E2,question,Исследовательский вопрос,4,4,ART-005,синтетическая экспертная оценка
+CTRL005,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-005,синтетическая экспертная оценка
+CTRL005,comparison,E2,sources,Проверка источников,2,4,ART-005,синтетическая экспертная оценка
+CTRL005,comparison,E2,design,Дизайн и базовые линии,3,4,ART-005,синтетическая экспертная оценка
+CTRL005,comparison,E2,provenance,Происхождение данных,3,4,ART-005,синтетическая экспертная оценка
+CTRL005,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-005,синтетическая экспертная оценка
+CTRL005,comparison,E2,model_choice,Выбор модели,3,4,ART-005,синтетическая экспертная оценка
+CTRL005,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-005,синтетическая экспертная оценка
+CTRL006,comparison,E1,question,Исследовательский вопрос,3,4,ART-006,синтетическая экспертная оценка
+CTRL006,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-006,синтетическая экспертная оценка
+CTRL006,comparison,E1,sources,Проверка источников,2,4,ART-006,синтетическая экспертная оценка
+CTRL006,comparison,E1,design,Дизайн и базовые линии,2,4,ART-006,синтетическая экспертная оценка
+CTRL006,comparison,E1,provenance,Происхождение данных,3,4,ART-006,синтетическая экспертная оценка
+CTRL006,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-006,синтетическая экспертная оценка
+CTRL006,comparison,E1,model_choice,Выбор модели,2,4,ART-006,синтетическая экспертная оценка
+CTRL006,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-006,синтетическая экспертная оценка
+CTRL006,comparison,E2,question,Исследовательский вопрос,2,4,ART-006,синтетическая экспертная оценка
+CTRL006,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-006,синтетическая экспертная оценка
+CTRL006,comparison,E2,sources,Проверка источников,1,4,ART-006,синтетическая экспертная оценка
+CTRL006,comparison,E2,design,Дизайн и базовые линии,2,4,ART-006,синтетическая экспертная оценка
+CTRL006,comparison,E2,provenance,Происхождение данных,3,4,ART-006,синтетическая экспертная оценка
+CTRL006,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-006,синтетическая экспертная оценка
+CTRL006,comparison,E2,model_choice,Выбор модели,2,4,ART-006,синтетическая экспертная оценка
+CTRL006,comparison,E2,reflection,Ограничения и рефлексия,3,4,ART-006,синтетическая экспертная оценка
+CTRL007,comparison,E1,question,Исследовательский вопрос,3,4,ART-007,синтетическая экспертная оценка
+CTRL007,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-007,синтетическая экспертная оценка
+CTRL007,comparison,E1,sources,Проверка источников,2,4,ART-007,синтетическая экспертная оценка
+CTRL007,comparison,E1,design,Дизайн и базовые линии,3,4,ART-007,синтетическая экспертная оценка
+CTRL007,comparison,E1,provenance,Происхождение данных,2,4,ART-007,синтетическая экспертная оценка
+CTRL007,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-007,синтетическая экспертная оценка
+CTRL007,comparison,E1,model_choice,Выбор модели,2,4,ART-007,синтетическая экспертная оценка
+CTRL007,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-007,синтетическая экспертная оценка
+CTRL007,comparison,E2,question,Исследовательский вопрос,3,4,ART-007,синтетическая экспертная оценка
+CTRL007,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-007,синтетическая экспертная оценка
+CTRL007,comparison,E2,sources,Проверка источников,2,4,ART-007,синтетическая экспертная оценка
+CTRL007,comparison,E2,design,Дизайн и базовые линии,3,4,ART-007,синтетическая экспертная оценка
+CTRL007,comparison,E2,provenance,Происхождение данных,1,4,ART-007,синтетическая экспертная оценка
+CTRL007,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-007,синтетическая экспертная оценка
+CTRL007,comparison,E2,model_choice,Выбор модели,3,4,ART-007,синтетическая экспертная оценка
+CTRL007,comparison,E2,reflection,Ограничения и рефлексия,1,4,ART-007,синтетическая экспертная оценка
+CTRL008,comparison,E1,question,Исследовательский вопрос,2,4,ART-008,синтетическая экспертная оценка
+CTRL008,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-008,синтетическая экспертная оценка
+CTRL008,comparison,E1,sources,Проверка источников,3,4,ART-008,синтетическая экспертная оценка
+CTRL008,comparison,E1,design,Дизайн и базовые линии,2,4,ART-008,синтетическая экспертная оценка
+CTRL008,comparison,E1,provenance,Происхождение данных,3,4,ART-008,синтетическая экспертная оценка
+CTRL008,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-008,синтетическая экспертная оценка
+CTRL008,comparison,E1,model_choice,Выбор модели,3,4,ART-008,синтетическая экспертная оценка
+CTRL008,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-008,синтетическая экспертная оценка
+CTRL008,comparison,E2,question,Исследовательский вопрос,3,4,ART-008,синтетическая экспертная оценка
+CTRL008,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-008,синтетическая экспертная оценка
+CTRL008,comparison,E2,sources,Проверка источников,3,4,ART-008,синтетическая экспертная оценка
+CTRL008,comparison,E2,design,Дизайн и базовые линии,2,4,ART-008,синтетическая экспертная оценка
+CTRL008,comparison,E2,provenance,Происхождение данных,3,4,ART-008,синтетическая экспертная оценка
+CTRL008,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-008,синтетическая экспертная оценка
+CTRL008,comparison,E2,model_choice,Выбор модели,3,4,ART-008,синтетическая экспертная оценка
+CTRL008,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-008,синтетическая экспертная оценка
+CTRL009,comparison,E1,question,Исследовательский вопрос,2,4,ART-009,синтетическая экспертная оценка
+CTRL009,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-009,синтетическая экспертная оценка
+CTRL009,comparison,E1,sources,Проверка источников,3,4,ART-009,синтетическая экспертная оценка
+CTRL009,comparison,E1,design,Дизайн и базовые линии,3,4,ART-009,синтетическая экспертная оценка
+CTRL009,comparison,E1,provenance,Происхождение данных,3,4,ART-009,синтетическая экспертная оценка
+CTRL009,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-009,синтетическая экспертная оценка
+CTRL009,comparison,E1,model_choice,Выбор модели,2,4,ART-009,синтетическая экспертная оценка
+CTRL009,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-009,синтетическая экспертная оценка
+CTRL009,comparison,E2,question,Исследовательский вопрос,2,4,ART-009,синтетическая экспертная оценка
+CTRL009,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-009,синтетическая экспертная оценка
+CTRL009,comparison,E2,sources,Проверка источников,2,4,ART-009,синтетическая экспертная оценка
+CTRL009,comparison,E2,design,Дизайн и базовые линии,3,4,ART-009,синтетическая экспертная оценка
+CTRL009,comparison,E2,provenance,Происхождение данных,2,4,ART-009,синтетическая экспертная оценка
+CTRL009,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-009,синтетическая экспертная оценка
+CTRL009,comparison,E2,model_choice,Выбор модели,2,4,ART-009,синтетическая экспертная оценка
+CTRL009,comparison,E2,reflection,Ограничения и рефлексия,3,4,ART-009,синтетическая экспертная оценка
+CTRL010,comparison,E1,question,Исследовательский вопрос,4,4,ART-010,синтетическая экспертная оценка
+CTRL010,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-010,синтетическая экспертная оценка
+CTRL010,comparison,E1,sources,Проверка источников,2,4,ART-010,синтетическая экспертная оценка
+CTRL010,comparison,E1,design,Дизайн и базовые линии,1,4,ART-010,синтетическая экспертная оценка
+CTRL010,comparison,E1,provenance,Происхождение данных,3,4,ART-010,синтетическая экспертная оценка
+CTRL010,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-010,синтетическая экспертная оценка
+CTRL010,comparison,E1,model_choice,Выбор модели,2,4,ART-010,синтетическая экспертная оценка
+CTRL010,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-010,синтетическая экспертная оценка
+CTRL010,comparison,E2,question,Исследовательский вопрос,4,4,ART-010,синтетическая экспертная оценка
+CTRL010,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-010,синтетическая экспертная оценка
+CTRL010,comparison,E2,sources,Проверка источников,2,4,ART-010,синтетическая экспертная оценка
+CTRL010,comparison,E2,design,Дизайн и базовые линии,1,4,ART-010,синтетическая экспертная оценка
+CTRL010,comparison,E2,provenance,Происхождение данных,3,4,ART-010,синтетическая экспертная оценка
+CTRL010,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-010,синтетическая экспертная оценка
+CTRL010,comparison,E2,model_choice,Выбор модели,2,4,ART-010,синтетическая экспертная оценка
+CTRL010,comparison,E2,reflection,Ограничения и рефлексия,3,4,ART-010,синтетическая экспертная оценка
+CTRL011,comparison,E1,question,Исследовательский вопрос,3,4,ART-011,синтетическая экспертная оценка
+CTRL011,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-011,синтетическая экспертная оценка
+CTRL011,comparison,E1,sources,Проверка источников,2,4,ART-011,синтетическая экспертная оценка
+CTRL011,comparison,E1,design,Дизайн и базовые линии,3,4,ART-011,синтетическая экспертная оценка
+CTRL011,comparison,E1,provenance,Происхождение данных,2,4,ART-011,синтетическая экспертная оценка
+CTRL011,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-011,синтетическая экспертная оценка
+CTRL011,comparison,E1,model_choice,Выбор модели,3,4,ART-011,синтетическая экспертная оценка
+CTRL011,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-011,синтетическая экспертная оценка
+CTRL011,comparison,E2,question,Исследовательский вопрос,3,4,ART-011,синтетическая экспертная оценка
+CTRL011,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-011,синтетическая экспертная оценка
+CTRL011,comparison,E2,sources,Проверка источников,2,4,ART-011,синтетическая экспертная оценка
+CTRL011,comparison,E2,design,Дизайн и базовые линии,3,4,ART-011,синтетическая экспертная оценка
+CTRL011,comparison,E2,provenance,Происхождение данных,3,4,ART-011,синтетическая экспертная оценка
+CTRL011,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-011,синтетическая экспертная оценка
+CTRL011,comparison,E2,model_choice,Выбор модели,3,4,ART-011,синтетическая экспертная оценка
+CTRL011,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-011,синтетическая экспертная оценка
+CTRL012,comparison,E1,question,Исследовательский вопрос,2,4,ART-012,синтетическая экспертная оценка
+CTRL012,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-012,синтетическая экспертная оценка
+CTRL012,comparison,E1,sources,Проверка источников,2,4,ART-012,синтетическая экспертная оценка
+CTRL012,comparison,E1,design,Дизайн и базовые линии,3,4,ART-012,синтетическая экспертная оценка
+CTRL012,comparison,E1,provenance,Происхождение данных,2,4,ART-012,синтетическая экспертная оценка
+CTRL012,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-012,синтетическая экспертная оценка
+CTRL012,comparison,E1,model_choice,Выбор модели,2,4,ART-012,синтетическая экспертная оценка
+CTRL012,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-012,синтетическая экспертная оценка
+CTRL012,comparison,E2,question,Исследовательский вопрос,3,4,ART-012,синтетическая экспертная оценка
+CTRL012,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-012,синтетическая экспертная оценка
+CTRL012,comparison,E2,sources,Проверка источников,2,4,ART-012,синтетическая экспертная оценка
+CTRL012,comparison,E2,design,Дизайн и базовые линии,3,4,ART-012,синтетическая экспертная оценка
+CTRL012,comparison,E2,provenance,Происхождение данных,3,4,ART-012,синтетическая экспертная оценка
+CTRL012,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-012,синтетическая экспертная оценка
+CTRL012,comparison,E2,model_choice,Выбор модели,2,4,ART-012,синтетическая экспертная оценка
+CTRL012,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-012,синтетическая экспертная оценка
+CTRL013,comparison,E1,question,Исследовательский вопрос,2,4,ART-013,синтетическая экспертная оценка
+CTRL013,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-013,синтетическая экспертная оценка
+CTRL013,comparison,E1,sources,Проверка источников,3,4,ART-013,синтетическая экспертная оценка
+CTRL013,comparison,E1,design,Дизайн и базовые линии,3,4,ART-013,синтетическая экспертная оценка
+CTRL013,comparison,E1,provenance,Происхождение данных,3,4,ART-013,синтетическая экспертная оценка
+CTRL013,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-013,синтетическая экспертная оценка
+CTRL013,comparison,E1,model_choice,Выбор модели,3,4,ART-013,синтетическая экспертная оценка
+CTRL013,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-013,синтетическая экспертная оценка
+CTRL013,comparison,E2,question,Исследовательский вопрос,3,4,ART-013,синтетическая экспертная оценка
+CTRL013,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-013,синтетическая экспертная оценка
+CTRL013,comparison,E2,sources,Проверка источников,3,4,ART-013,синтетическая экспертная оценка
+CTRL013,comparison,E2,design,Дизайн и базовые линии,4,4,ART-013,синтетическая экспертная оценка
+CTRL013,comparison,E2,provenance,Происхождение данных,3,4,ART-013,синтетическая экспертная оценка
+CTRL013,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-013,синтетическая экспертная оценка
+CTRL013,comparison,E2,model_choice,Выбор модели,3,4,ART-013,синтетическая экспертная оценка
+CTRL013,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-013,синтетическая экспертная оценка
+CTRL014,comparison,E1,question,Исследовательский вопрос,2,4,ART-014,синтетическая экспертная оценка
+CTRL014,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-014,синтетическая экспертная оценка
+CTRL014,comparison,E1,sources,Проверка источников,3,4,ART-014,синтетическая экспертная оценка
+CTRL014,comparison,E1,design,Дизайн и базовые линии,4,4,ART-014,синтетическая экспертная оценка
+CTRL014,comparison,E1,provenance,Происхождение данных,3,4,ART-014,синтетическая экспертная оценка
+CTRL014,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-014,синтетическая экспертная оценка
+CTRL014,comparison,E1,model_choice,Выбор модели,2,4,ART-014,синтетическая экспертная оценка
+CTRL014,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-014,синтетическая экспертная оценка
+CTRL014,comparison,E2,question,Исследовательский вопрос,2,4,ART-014,синтетическая экспертная оценка
+CTRL014,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-014,синтетическая экспертная оценка
+CTRL014,comparison,E2,sources,Проверка источников,3,4,ART-014,синтетическая экспертная оценка
+CTRL014,comparison,E2,design,Дизайн и базовые линии,4,4,ART-014,синтетическая экспертная оценка
+CTRL014,comparison,E2,provenance,Происхождение данных,3,4,ART-014,синтетическая экспертная оценка
+CTRL014,comparison,E2,reproducibility,Воспроизводимость,1,4,ART-014,синтетическая экспертная оценка
+CTRL014,comparison,E2,model_choice,Выбор модели,2,4,ART-014,синтетическая экспертная оценка
+CTRL014,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-014,синтетическая экспертная оценка
+CTRL015,comparison,E1,question,Исследовательский вопрос,3,4,ART-015,синтетическая экспертная оценка
+CTRL015,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-015,синтетическая экспертная оценка
+CTRL015,comparison,E1,sources,Проверка источников,3,4,ART-015,синтетическая экспертная оценка
+CTRL015,comparison,E1,design,Дизайн и базовые линии,3,4,ART-015,синтетическая экспертная оценка
+CTRL015,comparison,E1,provenance,Происхождение данных,2,4,ART-015,синтетическая экспертная оценка
+CTRL015,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-015,синтетическая экспертная оценка
+CTRL015,comparison,E1,model_choice,Выбор модели,3,4,ART-015,синтетическая экспертная оценка
+CTRL015,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-015,синтетическая экспертная оценка
+CTRL015,comparison,E2,question,Исследовательский вопрос,3,4,ART-015,синтетическая экспертная оценка
+CTRL015,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-015,синтетическая экспертная оценка
+CTRL015,comparison,E2,sources,Проверка источников,3,4,ART-015,синтетическая экспертная оценка
+CTRL015,comparison,E2,design,Дизайн и базовые линии,3,4,ART-015,синтетическая экспертная оценка
+CTRL015,comparison,E2,provenance,Происхождение данных,2,4,ART-015,синтетическая экспертная оценка
+CTRL015,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-015,синтетическая экспертная оценка
+CTRL015,comparison,E2,model_choice,Выбор модели,3,4,ART-015,синтетическая экспертная оценка
+CTRL015,comparison,E2,reflection,Ограничения и рефлексия,3,4,ART-015,синтетическая экспертная оценка
+CTRL016,comparison,E1,question,Исследовательский вопрос,2,4,ART-016,синтетическая экспертная оценка
+CTRL016,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-016,синтетическая экспертная оценка
+CTRL016,comparison,E1,sources,Проверка источников,3,4,ART-016,синтетическая экспертная оценка
+CTRL016,comparison,E1,design,Дизайн и базовые линии,3,4,ART-016,синтетическая экспертная оценка
+CTRL016,comparison,E1,provenance,Происхождение данных,3,4,ART-016,синтетическая экспертная оценка
+CTRL016,comparison,E1,reproducibility,Воспроизводимость,1,4,ART-016,синтетическая экспертная оценка
+CTRL016,comparison,E1,model_choice,Выбор модели,2,4,ART-016,синтетическая экспертная оценка
+CTRL016,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-016,синтетическая экспертная оценка
+CTRL016,comparison,E2,question,Исследовательский вопрос,2,4,ART-016,синтетическая экспертная оценка
+CTRL016,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-016,синтетическая экспертная оценка
+CTRL016,comparison,E2,sources,Проверка источников,3,4,ART-016,синтетическая экспертная оценка
+CTRL016,comparison,E2,design,Дизайн и базовые линии,3,4,ART-016,синтетическая экспертная оценка
+CTRL016,comparison,E2,provenance,Происхождение данных,2,4,ART-016,синтетическая экспертная оценка
+CTRL016,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-016,синтетическая экспертная оценка
+CTRL016,comparison,E2,model_choice,Выбор модели,3,4,ART-016,синтетическая экспертная оценка
+CTRL016,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-016,синтетическая экспертная оценка
+CTRL017,comparison,E1,question,Исследовательский вопрос,3,4,ART-017,синтетическая экспертная оценка
+CTRL017,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-017,синтетическая экспертная оценка
+CTRL017,comparison,E1,sources,Проверка источников,2,4,ART-017,синтетическая экспертная оценка
+CTRL017,comparison,E1,design,Дизайн и базовые линии,2,4,ART-017,синтетическая экспертная оценка
+CTRL017,comparison,E1,provenance,Происхождение данных,2,4,ART-017,синтетическая экспертная оценка
+CTRL017,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-017,синтетическая экспертная оценка
+CTRL017,comparison,E1,model_choice,Выбор модели,3,4,ART-017,синтетическая экспертная оценка
+CTRL017,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-017,синтетическая экспертная оценка
+CTRL017,comparison,E2,question,Исследовательский вопрос,3,4,ART-017,синтетическая экспертная оценка
+CTRL017,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-017,синтетическая экспертная оценка
+CTRL017,comparison,E2,sources,Проверка источников,2,4,ART-017,синтетическая экспертная оценка
+CTRL017,comparison,E2,design,Дизайн и базовые линии,2,4,ART-017,синтетическая экспертная оценка
+CTRL017,comparison,E2,provenance,Происхождение данных,2,4,ART-017,синтетическая экспертная оценка
+CTRL017,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-017,синтетическая экспертная оценка
+CTRL017,comparison,E2,model_choice,Выбор модели,3,4,ART-017,синтетическая экспертная оценка
+CTRL017,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-017,синтетическая экспертная оценка
+CTRL018,comparison,E1,question,Исследовательский вопрос,2,4,ART-018,синтетическая экспертная оценка
+CTRL018,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-018,синтетическая экспертная оценка
+CTRL018,comparison,E1,sources,Проверка источников,2,4,ART-018,синтетическая экспертная оценка
+CTRL018,comparison,E1,design,Дизайн и базовые линии,2,4,ART-018,синтетическая экспертная оценка
+CTRL018,comparison,E1,provenance,Происхождение данных,2,4,ART-018,синтетическая экспертная оценка
+CTRL018,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-018,синтетическая экспертная оценка
+CTRL018,comparison,E1,model_choice,Выбор модели,2,4,ART-018,синтетическая экспертная оценка
+CTRL018,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-018,синтетическая экспертная оценка
+CTRL018,comparison,E2,question,Исследовательский вопрос,2,4,ART-018,синтетическая экспертная оценка
+CTRL018,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-018,синтетическая экспертная оценка
+CTRL018,comparison,E2,sources,Проверка источников,2,4,ART-018,синтетическая экспертная оценка
+CTRL018,comparison,E2,design,Дизайн и базовые линии,2,4,ART-018,синтетическая экспертная оценка
+CTRL018,comparison,E2,provenance,Происхождение данных,2,4,ART-018,синтетическая экспертная оценка
+CTRL018,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-018,синтетическая экспертная оценка
+CTRL018,comparison,E2,model_choice,Выбор модели,2,4,ART-018,синтетическая экспертная оценка
+CTRL018,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-018,синтетическая экспертная оценка
+CTRL019,comparison,E1,question,Исследовательский вопрос,2,4,ART-019,синтетическая экспертная оценка
+CTRL019,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-019,синтетическая экспертная оценка
+CTRL019,comparison,E1,sources,Проверка источников,3,4,ART-019,синтетическая экспертная оценка
+CTRL019,comparison,E1,design,Дизайн и базовые линии,4,4,ART-019,синтетическая экспертная оценка
+CTRL019,comparison,E1,provenance,Происхождение данных,2,4,ART-019,синтетическая экспертная оценка
+CTRL019,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-019,синтетическая экспертная оценка
+CTRL019,comparison,E1,model_choice,Выбор модели,3,4,ART-019,синтетическая экспертная оценка
+CTRL019,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-019,синтетическая экспертная оценка
+CTRL019,comparison,E2,question,Исследовательский вопрос,3,4,ART-019,синтетическая экспертная оценка
+CTRL019,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-019,синтетическая экспертная оценка
+CTRL019,comparison,E2,sources,Проверка источников,3,4,ART-019,синтетическая экспертная оценка
+CTRL019,comparison,E2,design,Дизайн и базовые линии,4,4,ART-019,синтетическая экспертная оценка
+CTRL019,comparison,E2,provenance,Происхождение данных,2,4,ART-019,синтетическая экспертная оценка
+CTRL019,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-019,синтетическая экспертная оценка
+CTRL019,comparison,E2,model_choice,Выбор модели,3,4,ART-019,синтетическая экспертная оценка
+CTRL019,comparison,E2,reflection,Ограничения и рефлексия,3,4,ART-019,синтетическая экспертная оценка
+CTRL020,comparison,E1,question,Исследовательский вопрос,3,4,ART-020,синтетическая экспертная оценка
+CTRL020,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-020,синтетическая экспертная оценка
+CTRL020,comparison,E1,sources,Проверка источников,2,4,ART-020,синтетическая экспертная оценка
+CTRL020,comparison,E1,design,Дизайн и базовые линии,3,4,ART-020,синтетическая экспертная оценка
+CTRL020,comparison,E1,provenance,Происхождение данных,2,4,ART-020,синтетическая экспертная оценка
+CTRL020,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-020,синтетическая экспертная оценка
+CTRL020,comparison,E1,model_choice,Выбор модели,3,4,ART-020,синтетическая экспертная оценка
+CTRL020,comparison,E1,reflection,Ограничения и рефлексия,1,4,ART-020,синтетическая экспертная оценка
+CTRL020,comparison,E2,question,Исследовательский вопрос,3,4,ART-020,синтетическая экспертная оценка
+CTRL020,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-020,синтетическая экспертная оценка
+CTRL020,comparison,E2,sources,Проверка источников,2,4,ART-020,синтетическая экспертная оценка
+CTRL020,comparison,E2,design,Дизайн и базовые линии,2,4,ART-020,синтетическая экспертная оценка
+CTRL020,comparison,E2,provenance,Происхождение данных,2,4,ART-020,синтетическая экспертная оценка
+CTRL020,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-020,синтетическая экспертная оценка
+CTRL020,comparison,E2,model_choice,Выбор модели,3,4,ART-020,синтетическая экспертная оценка
+CTRL020,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-020,синтетическая экспертная оценка
+CTRL021,comparison,E1,question,Исследовательский вопрос,3,4,ART-021,синтетическая экспертная оценка
+CTRL021,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-021,синтетическая экспертная оценка
+CTRL021,comparison,E1,sources,Проверка источников,2,4,ART-021,синтетическая экспертная оценка
+CTRL021,comparison,E1,design,Дизайн и базовые линии,2,4,ART-021,синтетическая экспертная оценка
+CTRL021,comparison,E1,provenance,Происхождение данных,1,4,ART-021,синтетическая экспертная оценка
+CTRL021,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-021,синтетическая экспертная оценка
+CTRL021,comparison,E1,model_choice,Выбор модели,3,4,ART-021,синтетическая экспертная оценка
+CTRL021,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-021,синтетическая экспертная оценка
+CTRL021,comparison,E2,question,Исследовательский вопрос,3,4,ART-021,синтетическая экспертная оценка
+CTRL021,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-021,синтетическая экспертная оценка
+CTRL021,comparison,E2,sources,Проверка источников,3,4,ART-021,синтетическая экспертная оценка
+CTRL021,comparison,E2,design,Дизайн и базовые линии,2,4,ART-021,синтетическая экспертная оценка
+CTRL021,comparison,E2,provenance,Происхождение данных,1,4,ART-021,синтетическая экспертная оценка
+CTRL021,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-021,синтетическая экспертная оценка
+CTRL021,comparison,E2,model_choice,Выбор модели,3,4,ART-021,синтетическая экспертная оценка
+CTRL021,comparison,E2,reflection,Ограничения и рефлексия,3,4,ART-021,синтетическая экспертная оценка
+CTRL022,comparison,E1,question,Исследовательский вопрос,3,4,ART-022,синтетическая экспертная оценка
+CTRL022,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-022,синтетическая экспертная оценка
+CTRL022,comparison,E1,sources,Проверка источников,3,4,ART-022,синтетическая экспертная оценка
+CTRL022,comparison,E1,design,Дизайн и базовые линии,1,4,ART-022,синтетическая экспертная оценка
+CTRL022,comparison,E1,provenance,Происхождение данных,2,4,ART-022,синтетическая экспертная оценка
+CTRL022,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-022,синтетическая экспертная оценка
+CTRL022,comparison,E1,model_choice,Выбор модели,2,4,ART-022,синтетическая экспертная оценка
+CTRL022,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-022,синтетическая экспертная оценка
+CTRL022,comparison,E2,question,Исследовательский вопрос,3,4,ART-022,синтетическая экспертная оценка
+CTRL022,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-022,синтетическая экспертная оценка
+CTRL022,comparison,E2,sources,Проверка источников,3,4,ART-022,синтетическая экспертная оценка
+CTRL022,comparison,E2,design,Дизайн и базовые линии,1,4,ART-022,синтетическая экспертная оценка
+CTRL022,comparison,E2,provenance,Происхождение данных,2,4,ART-022,синтетическая экспертная оценка
+CTRL022,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-022,синтетическая экспертная оценка
+CTRL022,comparison,E2,model_choice,Выбор модели,2,4,ART-022,синтетическая экспертная оценка
+CTRL022,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-022,синтетическая экспертная оценка
+CTRL023,comparison,E1,question,Исследовательский вопрос,3,4,ART-023,синтетическая экспертная оценка
+CTRL023,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-023,синтетическая экспертная оценка
+CTRL023,comparison,E1,sources,Проверка источников,3,4,ART-023,синтетическая экспертная оценка
+CTRL023,comparison,E1,design,Дизайн и базовые линии,3,4,ART-023,синтетическая экспертная оценка
+CTRL023,comparison,E1,provenance,Происхождение данных,2,4,ART-023,синтетическая экспертная оценка
+CTRL023,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-023,синтетическая экспертная оценка
+CTRL023,comparison,E1,model_choice,Выбор модели,4,4,ART-023,синтетическая экспертная оценка
+CTRL023,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-023,синтетическая экспертная оценка
+CTRL023,comparison,E2,question,Исследовательский вопрос,3,4,ART-023,синтетическая экспертная оценка
+CTRL023,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-023,синтетическая экспертная оценка
+CTRL023,comparison,E2,sources,Проверка источников,2,4,ART-023,синтетическая экспертная оценка
+CTRL023,comparison,E2,design,Дизайн и базовые линии,2,4,ART-023,синтетическая экспертная оценка
+CTRL023,comparison,E2,provenance,Происхождение данных,1,4,ART-023,синтетическая экспертная оценка
+CTRL023,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-023,синтетическая экспертная оценка
+CTRL023,comparison,E2,model_choice,Выбор модели,3,4,ART-023,синтетическая экспертная оценка
+CTRL023,comparison,E2,reflection,Ограничения и рефлексия,1,4,ART-023,синтетическая экспертная оценка
+CTRL024,comparison,E1,question,Исследовательский вопрос,3,4,ART-024,синтетическая экспертная оценка
+CTRL024,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-024,синтетическая экспертная оценка
+CTRL024,comparison,E1,sources,Проверка источников,3,4,ART-024,синтетическая экспертная оценка
+CTRL024,comparison,E1,design,Дизайн и базовые линии,3,4,ART-024,синтетическая экспертная оценка
+CTRL024,comparison,E1,provenance,Происхождение данных,2,4,ART-024,синтетическая экспертная оценка
+CTRL024,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-024,синтетическая экспертная оценка
+CTRL024,comparison,E1,model_choice,Выбор модели,2,4,ART-024,синтетическая экспертная оценка
+CTRL024,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-024,синтетическая экспертная оценка
+CTRL024,comparison,E2,question,Исследовательский вопрос,2,4,ART-024,синтетическая экспертная оценка
+CTRL024,comparison,E2,hypothesis,Гипотеза и опровержение,3,4,ART-024,синтетическая экспертная оценка
+CTRL024,comparison,E2,sources,Проверка источников,3,4,ART-024,синтетическая экспертная оценка
+CTRL024,comparison,E2,design,Дизайн и базовые линии,3,4,ART-024,синтетическая экспертная оценка
+CTRL024,comparison,E2,provenance,Происхождение данных,2,4,ART-024,синтетическая экспертная оценка
+CTRL024,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-024,синтетическая экспертная оценка
+CTRL024,comparison,E2,model_choice,Выбор модели,3,4,ART-024,синтетическая экспертная оценка
+CTRL024,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-024,синтетическая экспертная оценка
+CTRL025,comparison,E1,question,Исследовательский вопрос,2,4,ART-025,синтетическая экспертная оценка
+CTRL025,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-025,синтетическая экспертная оценка
+CTRL025,comparison,E1,sources,Проверка источников,2,4,ART-025,синтетическая экспертная оценка
+CTRL025,comparison,E1,design,Дизайн и базовые линии,3,4,ART-025,синтетическая экспертная оценка
+CTRL025,comparison,E1,provenance,Происхождение данных,2,4,ART-025,синтетическая экспертная оценка
+CTRL025,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-025,синтетическая экспертная оценка
+CTRL025,comparison,E1,model_choice,Выбор модели,3,4,ART-025,синтетическая экспертная оценка
+CTRL025,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-025,синтетическая экспертная оценка
+CTRL025,comparison,E2,question,Исследовательский вопрос,3,4,ART-025,синтетическая экспертная оценка
+CTRL025,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-025,синтетическая экспертная оценка
+CTRL025,comparison,E2,sources,Проверка источников,2,4,ART-025,синтетическая экспертная оценка
+CTRL025,comparison,E2,design,Дизайн и базовые линии,3,4,ART-025,синтетическая экспертная оценка
+CTRL025,comparison,E2,provenance,Происхождение данных,2,4,ART-025,синтетическая экспертная оценка
+CTRL025,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-025,синтетическая экспертная оценка
+CTRL025,comparison,E2,model_choice,Выбор модели,3,4,ART-025,синтетическая экспертная оценка
+CTRL025,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-025,синтетическая экспертная оценка
+CTRL026,comparison,E1,question,Исследовательский вопрос,3,4,ART-026,синтетическая экспертная оценка
+CTRL026,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-026,синтетическая экспертная оценка
+CTRL026,comparison,E1,sources,Проверка источников,3,4,ART-026,синтетическая экспертная оценка
+CTRL026,comparison,E1,design,Дизайн и базовые линии,4,4,ART-026,синтетическая экспертная оценка
+CTRL026,comparison,E1,provenance,Происхождение данных,3,4,ART-026,синтетическая экспертная оценка
+CTRL026,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-026,синтетическая экспертная оценка
+CTRL026,comparison,E1,model_choice,Выбор модели,3,4,ART-026,синтетическая экспертная оценка
+CTRL026,comparison,E1,reflection,Ограничения и рефлексия,2,4,ART-026,синтетическая экспертная оценка
+CTRL026,comparison,E2,question,Исследовательский вопрос,3,4,ART-026,синтетическая экспертная оценка
+CTRL026,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-026,синтетическая экспертная оценка
+CTRL026,comparison,E2,sources,Проверка источников,3,4,ART-026,синтетическая экспертная оценка
+CTRL026,comparison,E2,design,Дизайн и базовые линии,3,4,ART-026,синтетическая экспертная оценка
+CTRL026,comparison,E2,provenance,Происхождение данных,2,4,ART-026,синтетическая экспертная оценка
+CTRL026,comparison,E2,reproducibility,Воспроизводимость,3,4,ART-026,синтетическая экспертная оценка
+CTRL026,comparison,E2,model_choice,Выбор модели,2,4,ART-026,синтетическая экспертная оценка
+CTRL026,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-026,синтетическая экспертная оценка
+CTRL027,comparison,E1,question,Исследовательский вопрос,2,4,ART-027,синтетическая экспертная оценка
+CTRL027,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-027,синтетическая экспертная оценка
+CTRL027,comparison,E1,sources,Проверка источников,2,4,ART-027,синтетическая экспертная оценка
+CTRL027,comparison,E1,design,Дизайн и базовые линии,3,4,ART-027,синтетическая экспертная оценка
+CTRL027,comparison,E1,provenance,Происхождение данных,3,4,ART-027,синтетическая экспертная оценка
+CTRL027,comparison,E1,reproducibility,Воспроизводимость,3,4,ART-027,синтетическая экспертная оценка
+CTRL027,comparison,E1,model_choice,Выбор модели,3,4,ART-027,синтетическая экспертная оценка
+CTRL027,comparison,E1,reflection,Ограничения и рефлексия,1,4,ART-027,синтетическая экспертная оценка
+CTRL027,comparison,E2,question,Исследовательский вопрос,2,4,ART-027,синтетическая экспертная оценка
+CTRL027,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-027,синтетическая экспертная оценка
+CTRL027,comparison,E2,sources,Проверка источников,2,4,ART-027,синтетическая экспертная оценка
+CTRL027,comparison,E2,design,Дизайн и базовые линии,2,4,ART-027,синтетическая экспертная оценка
+CTRL027,comparison,E2,provenance,Происхождение данных,3,4,ART-027,синтетическая экспертная оценка
+CTRL027,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-027,синтетическая экспертная оценка
+CTRL027,comparison,E2,model_choice,Выбор модели,3,4,ART-027,синтетическая экспертная оценка
+CTRL027,comparison,E2,reflection,Ограничения и рефлексия,1,4,ART-027,синтетическая экспертная оценка
+CTRL028,comparison,E1,question,Исследовательский вопрос,3,4,ART-028,синтетическая экспертная оценка
+CTRL028,comparison,E1,hypothesis,Гипотеза и опровержение,3,4,ART-028,синтетическая экспертная оценка
+CTRL028,comparison,E1,sources,Проверка источников,3,4,ART-028,синтетическая экспертная оценка
+CTRL028,comparison,E1,design,Дизайн и базовые линии,3,4,ART-028,синтетическая экспертная оценка
+CTRL028,comparison,E1,provenance,Происхождение данных,1,4,ART-028,синтетическая экспертная оценка
+CTRL028,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-028,синтетическая экспертная оценка
+CTRL028,comparison,E1,model_choice,Выбор модели,2,4,ART-028,синтетическая экспертная оценка
+CTRL028,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-028,синтетическая экспертная оценка
+CTRL028,comparison,E2,question,Исследовательский вопрос,2,4,ART-028,синтетическая экспертная оценка
+CTRL028,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-028,синтетическая экспертная оценка
+CTRL028,comparison,E2,sources,Проверка источников,2,4,ART-028,синтетическая экспертная оценка
+CTRL028,comparison,E2,design,Дизайн и базовые линии,2,4,ART-028,синтетическая экспертная оценка
+CTRL028,comparison,E2,provenance,Происхождение данных,1,4,ART-028,синтетическая экспертная оценка
+CTRL028,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-028,синтетическая экспертная оценка
+CTRL028,comparison,E2,model_choice,Выбор модели,2,4,ART-028,синтетическая экспертная оценка
+CTRL028,comparison,E2,reflection,Ограничения и рефлексия,2,4,ART-028,синтетическая экспертная оценка
+CTRL029,comparison,E1,question,Исследовательский вопрос,3,4,ART-029,синтетическая экспертная оценка
+CTRL029,comparison,E1,hypothesis,Гипотеза и опровержение,2,4,ART-029,синтетическая экспертная оценка
+CTRL029,comparison,E1,sources,Проверка источников,2,4,ART-029,синтетическая экспертная оценка
+CTRL029,comparison,E1,design,Дизайн и базовые линии,2,4,ART-029,синтетическая экспертная оценка
+CTRL029,comparison,E1,provenance,Происхождение данных,2,4,ART-029,синтетическая экспертная оценка
+CTRL029,comparison,E1,reproducibility,Воспроизводимость,2,4,ART-029,синтетическая экспертная оценка
+CTRL029,comparison,E1,model_choice,Выбор модели,3,4,ART-029,синтетическая экспертная оценка
+CTRL029,comparison,E1,reflection,Ограничения и рефлексия,3,4,ART-029,синтетическая экспертная оценка
+CTRL029,comparison,E2,question,Исследовательский вопрос,4,4,ART-029,синтетическая экспертная оценка
+CTRL029,comparison,E2,hypothesis,Гипотеза и опровержение,2,4,ART-029,синтетическая экспертная оценка
+CTRL029,comparison,E2,sources,Проверка источников,2,4,ART-029,синтетическая экспертная оценка
+CTRL029,comparison,E2,design,Дизайн и базовые линии,3,4,ART-029,синтетическая экспертная оценка
+CTRL029,comparison,E2,provenance,Происхождение данных,2,4,ART-029,синтетическая экспертная оценка
+CTRL029,comparison,E2,reproducibility,Воспроизводимость,2,4,ART-029,синтетическая экспертная оценка
+CTRL029,comparison,E2,model_choice,Выбор модели,3,4,ART-029,синтетическая экспертная оценка
+CTRL029,comparison,E2,reflection,Ограничения и рефлексия,3,4,ART-029,синтетическая экспертная оценка

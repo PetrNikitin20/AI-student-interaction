@@ -1,0 +1,29 @@
+name: Проверка чисел статьи
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Получить репозиторий
+        uses: actions/checkout@v4
+      - name: Установить Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Установить зависимости
+        run: python -m pip install -r code/requirements.txt
+      - name: Пересоздать данные
+        run: |
+          python code/generate_participant_data.py
+          python code/build_detailed_records.py
+      - name: Пересчитать статистику и графики
+        run: |
+          python code/analysis.py
+          python code/make_figures.py
+      - name: Проверить значения статьи
+        run: python code/validate_article_claims.py
+
